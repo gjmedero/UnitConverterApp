@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UnitConverterApp</string>
+    <string name="invalid_input">Invalid input</string>
+</resources>
